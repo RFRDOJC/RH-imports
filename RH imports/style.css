@@ -1,0 +1,18 @@
+body {
+    background: red ;
+    color: black ;
+}
+heard {
+    border-bottom: solid 2px white;
+    padding: 0px;
+    font-size: 32px;
+    color white;
+}
+    section {
+         background: black (147, 69,147);
+        padding-top: 80px;
+        padding-botton: 80px;
+        display: flex;
+        justify-content: center;
+        
+    }
